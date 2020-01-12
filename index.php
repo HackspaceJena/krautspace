@@ -1,6 +1,6 @@
 <!DOCTYPE HTML>
 <html lang="de">
-<?php include_once 'getContent.php'; ?>
+// <?php include_once 'getContent.php'; ?>
 <head>
     <title>kraut.space</title>
     <link rel="stylesheet" href="styles.css" />
