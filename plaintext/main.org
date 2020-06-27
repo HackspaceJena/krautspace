@@ -66,15 +66,15 @@
   2) 
      - XMPP
        - MUC krautchan@chat.krautspace.de 
-       - Webchat kraut.space/chat
+       - Webchat https://kraut.space/chat
 
   3) 
      - Github
-       - github.com/HackpspaceJena
+       - https://github.com/HackspaceJena
 
   4) 
      - Twitter
-       - twitter.com/krautspace
+       - https://twitter.com/HackspaceJena
 
   5) 
      - E-Mail
@@ -94,5 +94,5 @@
 
 * Fußzeile
 
-  kraut.space ©2016 Hackspace Jena e. V. · Kolophon
+  kraut.space Hackspace Jena e. V. · Kolophon
 
